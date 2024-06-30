@@ -18,3 +18,5 @@ python3 main.py
 ## List of Projects:
 
 - `chatbot`: Simple Chat Bot (https://hyperskill.org/projects/97?track=2)
+- `first_project_with_python`: My First Project with Python (https://hyperskill.org/projects/343?track=2)
+- `bill_splitter`: Bill Splitter (https://hyperskill.org/projects/175?track=2)
